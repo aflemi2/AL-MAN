@@ -1,5 +1,4 @@
-# Welcome to the AL-MAN video game! 
-# *can you survive the 9 to 5?*
+# Welcome to the AL-MAN video game! *can you survive the 9 to 5?*
 ![Logo](AL-MANCartridge1.jpg)
 ## Game Objective
 ### Guide your hero through the busy streets of New York at rush hour dodging pedestrians and urban wildlife. Coins and pizza slices will give you strength for the stressful commute. Pop into the museum for a break from the daily grind, but watch out for zombie tourists lurking on every floor! Don't stop moving or you might become a zombie yourself...
