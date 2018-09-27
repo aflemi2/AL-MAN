@@ -1,4 +1,4 @@
-# Welcome to the AL-MAN video game! 
+# Welcome to AL-MAN the video game! 
 ### *can you survive the 9 to 5?*
 ![Logo](AL-MANCartridge1.jpg)
 ## Game Objective
