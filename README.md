@@ -1,16 +1,19 @@
-# AL-MAN can you survive the 9 to 5!
+# AL-MAN *can you survive the 9 to 5!*
 ![Logo](AL-MANCartridge.jpg)
+## Guide your hero through the busy streets of New York at rush hour dodging pedestrians and urban wildlife. Coins and pizza slices will give you strength for the stressful commute. Pop into the museum for a break from the daily grind, but watch out for zombie tourists lurking on every floor! Don't stop moving or you might become a zombie yourself...
 
-### AL-MAN is a HTML5 video game built with Tiled, Quintus JavaScript library and 2D Modules.
-
+### HTML5 2D Platform Game
+AL-MAN video game built with Node, Express, Tiled for the graphics, Quintus JavaScript library and its 2D Modules for the game physics.
+>Screenshot from "Big Apple 3 AM" level.
 ![Logo](LevelSnap1.jpg)
-
+>Another screenshot from the same level.
 ![Logo](LevelSnap2.jpg)
 
+### Game Overview
 | Levels        | Skill          | Coins  |
 | ------------- |:--------------:| ------:|
 | Big Apple 3 AM| Easy           | 5      |
 | MoMA Zombies  | Medium         | 10     |
 | 5th Ave Rush  | Impossibly Hard| 20     |
 
-### This project is my first video game.
+### This project is a work in process.
