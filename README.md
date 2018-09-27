@@ -13,7 +13,7 @@
 >Another screenshot from the same level.
 
 ## Game Design
-### AL-MAN is an HTML5 2D Platform Game so no need to download the game just visit the site and you can start playing. The video game built with Node, Express, Tiled for the graphics, Quintus JavaScript library and its 2D Modules for the game physics. Original artwork and level design, including the game cartridge.
+### AL-MAN is an HTML5 2D Platform Game so no need to download the game just visit the site and you can start playing. The video game built with Node, Express, Tiled for the graphics, Quintus JavaScript library and its 2D Modules for the game physics. Original artwork by Alan Fleming including the game cartridge, level design and concept.
 
 ### Game Overview
 | Levels        | Skill          | Coins  |
@@ -22,4 +22,4 @@
 | MoMA Zombies  | Medium         | 10     |
 | 5th Ave Rush  | Impossibly Hard| 20     |
 
-## Special thanks to Zenva Academy for its intro to game design course, Zenva.com for tutorials and courses.
+### Special thanks to Zenva Academy for its intro to game design course, Zenva.com for tutorials and courses.
