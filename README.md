@@ -3,6 +3,7 @@
 ![Logo](AL-MANCartridge1.jpg)
 ## Game Objective
 ### Guide your hero through the busy streets of New York at rush hour dodging pedestrians and urban wildlife. Coins and pizza slices will give you strength for the stressful commute. Pop into the museum for a break from the daily grind, but watch out for zombie tourists lurking on every floor! Don't stop moving or you might become a zombie yourself...
+
 ![Logo](LevelSnap1.jpg)
 
 >Screenshot from "Big Apple 3 AM" level.
