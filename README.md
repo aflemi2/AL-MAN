@@ -1,13 +1,16 @@
-# AL-MAN
+# AL-MAN can you survive the 9 to 5!
 ![Logo](AL-MANCartridge.jpg)
 
 ### AL-MAN is a HTML5 video game built with Tiled, Quintus JavaScript library and 2D Modules.
 
-| Exercises     | Sets     | Reps  |
-| ------------- |:--------:| -----:|
-| KB Swings     | 3        | 20    |
-| Goblet Squat  | 3        | 10    |
-| Bent-Over Row | 3        | 12    |
+![Logo](LevelSnap1.jpg)
 
+![Logo](LevelSnap2.jpg)
 
-### This project is my first video game. 
+| Levels        | Skill          | Coins  |
+| ------------- |:--------------:| ------:|
+| Big Apple 3 AM| Easy           | 5      |
+| MoMA Zombies  | Medium         | 10     |
+| 5th Ave Rush  | Impossibly Hard| 20     |
+
+### This project is my first video game.
