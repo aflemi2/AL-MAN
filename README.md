@@ -4,11 +4,14 @@
 
 ### HTML5 2D Platform Game
 AL-MAN video game built with Node, Express, Tiled for the graphics, Quintus JavaScript library and its 2D Modules for the game physics.
->Screenshot from "Big Apple 3 AM" level.
+Original artwork and level design.
 ![Logo](LevelSnap1.jpg)
->Another screenshot from the same level.
+
+>Screenshot from "Big Apple 3 AM" level.
+
 ![Logo](LevelSnap2.jpg)
 
+>Another screenshot from the same level.
 ### Game Overview
 | Levels        | Skill          | Coins  |
 | ------------- |:--------------:| ------:|
@@ -16,4 +19,3 @@ AL-MAN video game built with Node, Express, Tiled for the graphics, Quintus Java
 | MoMA Zombies  | Medium         | 10     |
 | 5th Ave Rush  | Impossibly Hard| 20     |
 
-### This project is a work in process.
